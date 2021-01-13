@@ -4,112 +4,115 @@
      xmlns:turbo="http://turbo.yandex.ru"
      version="2.0">
     <channel>
+    <item turbo="true">
+    <link>https://portfolio-kuznetsova-anna.herokuapp.com/</link>
         <turbo:content>
               <![CDATA[
                   <!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta name="yandex-verification" content="0d0a6ed38649f14c" />
-	<meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <meta name="description" content="Лабораторные работы. Попкова Дарья P41072">
-	    
-        <title>Лабораторные работы. Попкова Дарья P41072</title>
-		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" 
-              rel="stylesheet">
-        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" 
-              rel="stylesheet">
-	    
-	    <!-- Yandex.Metrika counter -->
-	<script type="text/javascript" >
-	   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-	   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-	   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+		<html lang="en">
+		    <head>
+			<meta name="yandex-verification" content="0d0a6ed38649f14c" />
+			<meta charset="utf-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<meta http-equiv="X-UA-Compatible" content="ie=edge">
+			<meta name="description" content="Лабораторные работы. Попкова Дарья P41072">
 
-	   ym(71172319, "init", {
-		clickmap:true,
-		trackLinks:true,
-		accurateTrackBounce:true,
-		webvisor:true
-	   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/71172319" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-                   
-    </head>
-    <body class="page">
+			<title>Лабораторные работы. Попкова Дарья P41072</title>
+				<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" 
+			      rel="stylesheet">
+			<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" 
+			      rel="stylesheet">
 
-        <main class="main page">
-		<h1>Лабораторные работы. Попкова Дарья P41072</h1>
-            <h1>
-                Список лабораторных работ:
-            </h1>
-                <h2 class="card-title">
-					<a href="https://kodaktor.ru/task_func_58d21">FUNC_001</a>
-                </h2>
+			    <!-- Yandex.Metrika counter -->
+			<script type="text/javascript" >
+			   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+			   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+			   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+			   ym(71172319, "init", {
+				clickmap:true,
+				trackLinks:true,
+				accurateTrackBounce:true,
+				webvisor:true
+			   });
+		</script>
+		<noscript><div><img src="https://mc.yandex.ru/watch/71172319" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+		<!-- /Yandex.Metrika counter -->
+
+		    </head>
+		    <body class="page">
+
+			<main class="main page">
+				<h1>Лабораторные работы. Попкова Дарья P41072</h1>
+			    <h1>
+				Список лабораторных работ:
+			    </h1>
 				<h2 class="card-title">
-					<a href="https://kodaktor.ru/func_b7386">FUNC_002</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://kodaktor.ru/func_5e2d8">FUNC_003</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://kodaktor.ru/func_11b02">FUNC_004</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://kodaktor.ru/func_663d9">FUNC_005</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://kodaktor.ru/func_15341">FUNC_006</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://kodaktor.ru/func_74ad7">FUNC_007</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://kodaktor.ru/func_9c762">FUNC_008</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://kodaktor.ru/func_9058f">FUNC_009</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://kodaktor.ru/func_9f96d">FUNC_010</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://kodaktor.ru/bind02032018_47b12">BABL_002</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://kodaktor.ru/custom_e8fba">EVNT_002 </a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://dpopkova.github.io/FRMW_001/">FRMW_001</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://github.com/Dpopkova/FRMW_002">FRMW_002</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://github.com/Dpopkova/FRMW_003">FRMW_003</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://github.com/Dpopkova/FRMW_004">FRMW_004</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://github.com/Dpopkova/FRMW_005">FRMW_005</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://dpopkova.github.io/FRMW_006/">FRMW_006</a>
-                </h2>
-				<h2 class="card-title">
-					<a href="https://github.com/Dpopkova/FRMW_007">FRMW_007</a>
-                </h2>
-            </div>
-            
-        
-                </div>
-            </main>
-        </body>
-    </html>
+							<a href="https://kodaktor.ru/task_func_58d21">FUNC_001</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://kodaktor.ru/func_b7386">FUNC_002</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://kodaktor.ru/func_5e2d8">FUNC_003</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://kodaktor.ru/func_11b02">FUNC_004</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://kodaktor.ru/func_663d9">FUNC_005</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://kodaktor.ru/func_15341">FUNC_006</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://kodaktor.ru/func_74ad7">FUNC_007</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://kodaktor.ru/func_9c762">FUNC_008</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://kodaktor.ru/func_9058f">FUNC_009</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://kodaktor.ru/func_9f96d">FUNC_010</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://kodaktor.ru/bind02032018_47b12">BABL_002</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://kodaktor.ru/custom_e8fba">EVNT_002 </a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://dpopkova.github.io/FRMW_001/">FRMW_001</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://github.com/Dpopkova/FRMW_002">FRMW_002</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://github.com/Dpopkova/FRMW_003">FRMW_003</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://github.com/Dpopkova/FRMW_004">FRMW_004</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://github.com/Dpopkova/FRMW_005">FRMW_005</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://dpopkova.github.io/FRMW_006/">FRMW_006</a>
+				</h2>
+						<h2 class="card-title">
+							<a href="https://github.com/Dpopkova/FRMW_007">FRMW_007</a>
+				</h2>
+			    </div>
+
+
+				</div>
+			    </main>
+			</body>
+		    </html>
               ]]>
          </turbo:content>
+	</item>
     </channel>
 </rss>
