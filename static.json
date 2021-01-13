@@ -1,0 +1,8 @@
+{
+  "headers":{
+    "/*":{
+      "X-Author":"Daria Popkova",
+      "Access-Control-Allow-Origin":"*"
+    }
+  }
+}
