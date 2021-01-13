@@ -8,8 +8,6 @@
     <link>https://dpopkova-webmster.herokuapp.com/</link>
         <turbo:content>
               <![CDATA[
-                  <!DOCTYPE html>
-		<html lang="en">
 		    <head>
 			<meta name="yandex-verification" content="0d0a6ed38649f14c" />
 			<meta charset="utf-8">
