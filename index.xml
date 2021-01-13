@@ -5,7 +5,7 @@
      version="2.0">
     <channel>
     <item turbo="true">
-    <link>https://portfolio-kuznetsova-anna.herokuapp.com/</link>
+    <link>https://dpopkova-webmster.herokuapp.com/</link>
         <turbo:content>
               <![CDATA[
                   <!DOCTYPE html>
